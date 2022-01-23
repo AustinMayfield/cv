@@ -1,0 +1,35 @@
+/***************************TAG SELECTORS*************************************/
+body {
+  background-color: #AEFEFF;
+}
+
+hr {
+  width: 20%;
+  margin: 10px;
+  border-width: 5px;
+  border-style: none;
+  border-top-style: solid;
+  border-color: #072227;
+}
+
+body {
+  color: #2B2E4A;
+}
+
+h1 {
+  color: #40514E;
+}
+
+
+/***************************CLASS SELECTORS***********************************/
+.headline {
+  border-color: #C3BEF0;
+  transform: scale(2) translate(35%, 0%);
+  width: 100px;
+  border-top-style: dotted;
+}
+
+/***************************ID SELECTORS**************************************/
+#heading {
+  color: #40514E;
+}
